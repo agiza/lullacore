@@ -49,7 +49,7 @@ modules[core][] = system
 modules[core][] = user
 
 ; Contrib
-modules[contrib][] = admin_menu
+modules[contrib][] = admin
 modules[contrib][] = date_api
 modules[contrib][] = imageapi
 modules[contrib][] = imageapi_gd
@@ -207,6 +207,7 @@ Float Right=right"
 ; -----------------------------------------------------------------------------
 variables[site_name] = Lullabot Loves You!
 variables[theme_settings][toggle_node_info_page] = 0
+variables[admin_theme] = rubik
 
 
 ; -----------------------------------------------------------------------------
