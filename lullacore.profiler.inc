@@ -70,6 +70,7 @@ modules[contrib][] = pathauto
 modules[contrib][] = wysiwyg
 modules[contrib][] = markdown
 modules[contrib][] = transliteration
+modules[contrib][] = semanticviews
 
 
 ; -----------------------------------------------------------------------------
