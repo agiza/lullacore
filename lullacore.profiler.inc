@@ -21,6 +21,7 @@
 ; -----------------------------------------------------------------------------
 
 name = Lullabot Core
+description = Lullabot base install profile.
 core = 6.x
 theme = zen
 
